@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Recoleta';
+    src: url('../Fonts/Recoleta-Regular.woff2') format('woff2'),
+    url('../Fonts/Recoleta-Regular.woff') format('woff'),
+    url('../Fonts/Recoleta-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'rec', monospace;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 25% 65% 10%;
+    grid-template-rows: 4em;
+    align-items: center;
+    line-height: 70px;
+
+}
+
+.kutu1 {
+    height: 100%;
+    width: 100%;
+
+}
+
+.kutu1 img {
+    width: 50%;
+    height: 100%;
+
+}
+
+.kutu2 {
+    width: 100%;
+    height: 100%;
+}
+
+.kutu2 > ul {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+
+.kutu2 > ul > li {
+    text-align: center;
+}
+
+.kutu2 ul li a:hover {
+    color: #f04873;
+    transition: ease .5s
+}
+
+.kutu2 ul li a {
+    text-decoration: none;
+    padding-bottom: 26px;
+    color: #000;
+    transition: ease .5s;
+}
+
+.col-1 {
+    padding-top: 5%;
+    padding-left: 2%;
+}
+
+.col-1 > ul > li {
+    padding: 5px;
+}
+
+.kutu2 > ul > li > a:hover + .mega-menu, .mega-menu:hover {
+    display: grid;
+    z-index: 9999;
+    border: solid 1px #4a4a4a;
+
+}
+
+.mega-menu {
+    background: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+    padding: 0 15px 0 15px;
+    height: auto;
+    display: none;
+    grid-template-columns: 60% 40%;
+
+}
+
+.col-1 > ul {
+    list-style: disc;
+    text-align: left;
+}
+
+.col-1 > ul > li > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #f04873;
+}
+
+.stander {
+    display: grid;
+    grid-template-columns:auto auto auto;
+    line-height: 20px;
+
+}
+
+.col-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-2 img {
+    border-radius: 25px;
+    width: 60%;
+    height: 60%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
+
+.kutu3 {
+    width: 100%;
+    height: 100%;
+}
+
+.main-content {
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    background: url("../images/tatiana-balletti-xGw6aeq8KxM-unsplash.jpg") center no-repeat;
+    background-size: cover;
+    display: flex;
+}

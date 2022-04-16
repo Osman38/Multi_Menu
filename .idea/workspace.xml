@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3912e5a4-5b1c-4924-811c-89a36debaa75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/menu-photo-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu-photo-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/myStyle.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="2dc406f7-0f16-4e9e-b17c-2457bad3ba52" name="xampp-server" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="27jk5z8Xha8bDe5a7HmOKuw9iV8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React-Tutorials" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ylmaz\Desktop\Tasarım\images" />
+      <recent name="C:\Users\ylmaz\Desktop\Tasarım\Fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tasarim" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="xampp-server">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3912e5a4-5b1c-4924-811c-89a36debaa75" name="Default Changelist" comment="" />
+      <created>1649840707005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649840707005</updated>
+      <workItem from="1649840708863" duration="82000" />
+      <workItem from="1649840888494" duration="227000" />
+      <workItem from="1649841290945" duration="637000" />
+      <workItem from="1649841951509" duration="22602000" />
+      <workItem from="1649929074082" duration="7382000" />
+      <workItem from="1649962008606" duration="14000" />
+      <workItem from="1649962049351" duration="14281000" />
+      <workItem from="1650011268297" duration="594000" />
+      <workItem from="1650114624112" duration="3294000" />
+      <workItem from="1650121699637" duration="52000" />
+      <workItem from="1650136269300" duration="1992000" />
+    </task>
+    <task id="LOCAL-00001" summary="Açılır Menüye alt çizgi eklendi.">
+      <created>1650137760702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650137760702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Açılır Menüye alt çizgi eklendi.">
+      <created>1650138034602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650138034602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Açılır Menüye alt çizgi eklendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Açılır Menüye alt çizgi eklendi." />
+  </component>
+</project>

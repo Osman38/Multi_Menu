@@ -89,6 +89,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Açılır Menüye alt çizgi eklendi." />
-    <option name="LAST_COMMIT_MESSAGE" value="Açılır Menüye alt çizgi eklendi." />
+    <MESSAGE value="Açılır Menüye alt çizgi eklendi.&#10;&#10;# Conflicts:&#10;#&#9;index.html&#10;#&#9;style/myStyle.css" />
+    <MESSAGE value="# Conflicts:&#10;#&#9;index.html&#10;#&#9;style/myStyle.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Conflicts:&#10;#&#9;index.html&#10;#&#9;style/myStyle.css" />
   </component>
 </project>

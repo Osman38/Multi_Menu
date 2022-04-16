@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3912e5a4-5b1c-4924-811c-89a36debaa75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/menu-photo-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu-photo-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/myStyle.css" afterDir="false" />
-    </list>
+    <list default="true" id="3912e5a4-5b1c-4924-811c-89a36debaa75" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,14 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,7 +71,7 @@
       <workItem from="1650011268297" duration="594000" />
       <workItem from="1650114624112" duration="3294000" />
       <workItem from="1650121699637" duration="52000" />
-      <workItem from="1650136269300" duration="1992000" />
+      <workItem from="1650136269300" duration="1674000" />
     </task>
     <task id="LOCAL-00001" summary="Açılır Menüye alt çizgi eklendi.">
       <created>1650137760702</created>
@@ -92,14 +80,7 @@
       <option name="project" value="LOCAL" />
       <updated>1650137760702</updated>
     </task>
-    <task id="LOCAL-00002" summary="Açılır Menüye alt çizgi eklendi.">
-      <created>1650138034602</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1650138034602</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

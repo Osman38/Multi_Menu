@@ -1,0 +1,115 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1649976402293)
++++ b/.idea/vcs.xml	(date 1649976402293)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1650136704131)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1650136704131)
+@@ -0,0 +1,31 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="myValues">
++        <value>
++          <list size="7">
++            <item index="0" class="java.lang.String" itemvalue="nobr" />
++            <item index="1" class="java.lang.String" itemvalue="noembed" />
++            <item index="2" class="java.lang.String" itemvalue="comment" />
++            <item index="3" class="java.lang.String" itemvalue="noscript" />
++            <item index="4" class="java.lang.String" itemvalue="embed" />
++            <item index="5" class="java.lang.String" itemvalue="script" />
++            <item index="6" class="java.lang.String" itemvalue="hr" />
++          </list>
++        </value>
++      </option>
++      <option name="myCustomValuesEnabled" value="true" />
++    </inspection_tool>
++    <inspection_tool class="SpellCheckingInspection" enabled="false" level="INFORMATION" enabled_by_default="false">
++      <scope name="Project Files" level="TYPO" enabled="false">
++        <option name="processCode" value="true" />
++        <option name="processLiterals" value="true" />
++        <option name="processComments" value="true" />
++      </scope>
++      <option name="processCode" value="true" />
++      <option name="processLiterals" value="true" />
++      <option name="processComments" value="true" />
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1649840715372)
++++ b/.idea/.gitignore	(date 1649840715372)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/../../../../../../:\Users\ylmaz\Desktop\Tasarım\.idea/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1649840708724)
++++ b/.idea/modules.xml	(date 1649840708724)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/Tasarım.iml" filepath="$PROJECT_DIR$/.idea/Tasarım.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/Tasarım.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/Tasarım.iml b/.idea/Tasarım.iml
+new file mode 100644
+--- /dev/null	(date 1649840708669)
++++ b/.idea/Tasarım.iml	(date 1649840708669)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
